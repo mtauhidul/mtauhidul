@@ -10,7 +10,7 @@ I ensure the best user experience, architecture and the quality with most profes
 - 🌱 I’m currently working with mern web applications
 - 👯 I’m looking to collaborate on web development projects
 - 💬 Ask me anything related to modern web applications development
-- 📫 Get in touch: dev.tauhidul@gmail.com
+- 📫 Get in touch: mislam.tauhidul@gmail.com
 - 😄 Pronouns: He/His
 
 
