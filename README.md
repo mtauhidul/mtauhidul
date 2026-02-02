@@ -13,15 +13,13 @@ staying curious.
 
 ---
 
-[ tools ]
+**tools**
 
-typescript · react · next.js
+typescript · react · next.js · 
 node.js · firebase · tailwind css
 
 ---
 
-[ say hello ]
+**connect**
 
-mirtauhid.com
-mir.tauhidul@protonmail.com
-linkedin.com/in/mirtauhid
+[mirtauhid.com](https://www.mirtauhid.com) • [email](mailto:mir.tauhidul@protonmail.com) • [linkedin](https://www.linkedin.com/in/mirtauhid)
