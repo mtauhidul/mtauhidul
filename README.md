@@ -22,4 +22,4 @@ node.js · firebase · tailwind css
 
 **connect**
 
-[mirtauhid.com](https://www.mirtauhid.com) • [email](mailto:mir.tauhidul@protonmail.com) • [linkedin](https://www.linkedin.com/in/mirtauhid)
+mir.tauhidul@protonmail.com
