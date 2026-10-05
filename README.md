@@ -1,17 +1,20 @@
-# Mir Tauhidul Islam
-Frontend developer with some backend experience.
-Based in Dhaka, Bangladesh.
+# Hi, I'm Mir Tauhidul Islam
 
-Since 2021, I've worked on small to medium projects for clients from different parts of the world.
-In 2023, I joined a US-based health tech company as a remote frontend developer.
-I've been there since.
+Frontend developer from Dhaka, Bangladesh. I build web apps with React and TypeScript, and I'm comfortable on the backend too.
 
-I came from a Statistics and Data Science background, so none of this was straightforward.
-JavaScript pulled me in.
-React became my main tool.
-The curiosity to solve real problems kept me going.
-Still learning, still evolving.
+I started freelancing in 2021 and joined a US-based health tech company as a remote frontend developer in 2023. I came from a Statistics and Data Science background, and JavaScript pulled me in from there. I'm still learning, and I like it that way.
 
----
+## What I work with
+
+React · Next.js · TypeScript · Node.js · Tailwind CSS · Firebase
+
+## Some things I've made
+
+- [**mirtauhid.com**](https://github.com/mtauhidul/mirtauhid.com-v5): my portfolio and blog
+- [**Draftboard**](https://github.com/mtauhidul/draftboard): a private, offline sketch board
+- [**MailForge AI**](https://github.com/mtauhidul/mail-forge): a landing page for an AI email assistant
+- [**Night Shift**](https://github.com/mtauhidul/night-lofi-anim): an animated lofi scene, with music made in the browser
+
+## Say hello
 
 [mirtauhid.com](https://mirtauhid.com) · [LinkedIn](https://linkedin.com/in/mirtauhid) · mir.tauhidul@protonmail.com
