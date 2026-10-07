@@ -10,7 +10,7 @@ React · Next.js · TypeScript · Node.js · Tailwind CSS · Firebase
 
 ## Some things I've made
 
-- [**mirtauhid.com**](https://github.com/mtauhidul/mirtauhid.com-v5): my portfolio and blog
+- [**mirtauhid.com**](https://github.com/mtauhidul/mirtauhid.com-v5): my portfolio
 - [**Draftboard**](https://github.com/mtauhidul/draftboard): a private, offline sketch board
 - [**Night Shift**](https://github.com/mtauhidul/night-lofi-anim): an animated lofi scene, with music made in the browser
 
